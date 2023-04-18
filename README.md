@@ -1,6 +1,10 @@
 
 <!--
 
+- 🔭 I’m currently working on [Nameofwork](google.com) or <a href="https://link.com" target="blank">Name</a> 
+
+- 📝 I regularly write articles on <a href="https://link.com" target="blank">Name</a>
+
 ### Hi there 👋
 
 **Irbaine/Irbaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
