@@ -1,4 +1,3 @@
-
 <!--
 
 - 🔭 I’m currently working on [Nameofwork](google.com) or <a href="https://link.com" target="blank">Name</a> 
@@ -83,7 +82,28 @@ Latest Articles👇:
 </br>
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Irbaine&show_icons=true&locale=en" alt="Irbaine" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Irbaine&show_icons=true&locale=en" alt="Irbaine" />
+ </p>
+ 
+ <p align="center"> <br><br><br>
+	<a href="https://" target="_blank" rel="nofollow">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  	</a><a href="https://" target="_blank" rel="nofollow">
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    	</a><a href="https://" target="_blank" rel="nofollow">
+	<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+      	</a><a href="https://facebook.com/amineIr" target="_blank" rel="nofollow">
+	<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+        	</a><a href="https://instagram.com/amine_ir" target="_blank" rel="nofollow">
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+          	</a><a href="https://" target="_blank" rel="nofollow">
+	<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+          </a>
+ 
+ <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+</p>
+
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Irbaine&" alt="Irbaine" /></p> -->
 <!-- </br> -->
