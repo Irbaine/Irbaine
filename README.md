@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, Redux, NextJS, Sass**
 
-- 📫 How to reach me **irbaine@yahoo.com**
+- 📫 How to reach me **contact@irbaine.com**
 
 - 📝 Visit my personal website **www.irbaine.com**
  
